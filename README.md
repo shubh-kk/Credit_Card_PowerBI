@@ -1,5 +1,5 @@
 # **Credit Card Weekly Status Report**  
-**Name**: Shubham P. Khodke  
+**Name**: Shubham Pradip Khodke  
 **Class**: MCA 2nd Sem 3rd  
 **Subject**: Data Analytics 
 ---
@@ -7,7 +7,15 @@
 ## **Project Objective**  
 The objective of this project is to develop a comprehensive credit card performance monitoring solution. It provides detailed insights into weekly changes and overall performance metrics using SQL, DAX, and data visualization dashboards.
 
+
 ---
+![Transaction Screenshot](Credit_Card_Financial_Dashboard-Transaction.jpg)
+**Credit Card Transaction Report** 
+
+![Customer Screenshot](Credit_Card_Financial_Dashboard-Customer.jpg)
+**Credit Card Customer Report** 
+---
+
 
 ## **Table of Contents**  
 1. [Project Objective](#project-objective)  
